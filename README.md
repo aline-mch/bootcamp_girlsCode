@@ -1,2 +1,2 @@
-# bootcamp_girlsCode
-Desafio de projeto Git/Github
+# Desafio de projeto sobre git/github GirlsCode
+Repositório criado para desafio de projeto
